@@ -1,0 +1,1 @@
+docker swarm join --token FJNIWML-1-adafefwr34564891241362edqwiohd291-5duiawn1daljfe8da0e2rln38 197.168.1.100:2377
